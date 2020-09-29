@@ -107,5 +107,8 @@ hr {
   margin-bottom: 0 auto 0 auto;
 }
 .two{
-  box-shadow: -2px -2px 5px #ffffff, 3px 3px 20px #000000;
+  margin-top:20px;
+  -webkit-box-shadow: 7em 7em 30em 0em rgba(12, 10, 12, 0.83);
+  -moz-box-shadow: 7em 7em 30em 0em rgba(27, 22, 27, 0.83);
+  box-shadow: 7em 7em 30em 0em rgba(26, 22, 26, 0.83);
 }
