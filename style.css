@@ -108,7 +108,7 @@ hr {
 }
 .two{
   margin-top:20px;
-  -webkit-box-shadow: 7em 7em 30em 0em rgba(12, 10, 12, 0.83);
-  -moz-box-shadow: 7em 7em 30em 0em rgba(27, 22, 27, 0.83);
-  box-shadow: 7em 7em 30em 0em rgba(26, 22, 26, 0.83);
+ -webkit-box-shadow: 7px 7px 30px 0px rgba(12, 10, 12, 0.83);
+  -moz-box-shadow: 7px 7px 30px 0px rgba(27, 22, 27, 0.83);
+  box-shadow: 7px 7px 30px 0px rgba(26, 22, 26, 0.83);
 }
